@@ -1,4 +1,5 @@
 Below is a **complete Git calculator practice project** that covers **all important local Git concepts**:
+These are the git commands we have seen so far in the class
 
 - init
     
